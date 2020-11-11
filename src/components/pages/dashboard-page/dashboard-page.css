@@ -1,0 +1,19 @@
+
+h1 {
+  color: rgba(26, 115, 232, 1);
+}
+
+.logout {
+  margin-bottom: 1rem;
+  height: 2rem;
+  border: 2px solid rgba(220,220,220,1);
+  background-color: rgba(220, 53, 69, 1);
+  color: white;
+  align-self: center;
+  cursor: pointer;
+  transition: .3s;
+}
+
+.logout:hover {
+  background-color: rgb(231, 81, 96);
+}
